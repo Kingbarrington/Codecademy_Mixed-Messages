@@ -77,3 +77,10 @@ const kidPoem3 = [
   ["And then, for reasons no one knows,"],
   ["Fred’s underwear goes on his toes."],
 ];
+
+const poemArray = [[sadPoem1],[sadPoem2],[sadPoem3],[kidPoem1],[kidPoem2],[kidPoem3]];
+
+const randomTill = ceil => Math.floor((Math.random() * ceil)+1);
+
+
+
